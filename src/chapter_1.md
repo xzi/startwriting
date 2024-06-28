@@ -1,4 +1,3 @@
-# Chapter 1
+# You should start writing!
 
-```admonish warning
-testing```
+A statement easier said than done.
