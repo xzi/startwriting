@@ -8,6 +8,7 @@ This is a public to-do list that I am using for keeping track of what needs to b
 - [] Create a platform for communication (Discord seems the best)
 - [] Optimize CI so it doesn't take 2:30+ to build the site
 - [] Attributions for plugins
+- [] Prettify things around the repo
 
 ## The actual guide
 
