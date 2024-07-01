@@ -5,11 +5,11 @@ This is a public to-do list that I am using for keeping track of what needs to b
 ## Meta
 
 - [x] ~~Optimize CI so it doesn't take 2:30+ to build the site~~ (Optimized from [~2:30](https://github.com/xzi/startwriting/actions/runs/9726123914/job/26844209064) to [~0:30](https://github.com/xzi/startwriting/actions/runs/9726272152/workflow))
-- [] Make a README and contribution instructions
-- [] Create a Discord server for the project
-- [] Attributions for plugins
-- [] Prettify things around the repo
+- [ ] Make a README and contribution instructions
+- [ ] Create a Discord server for the project
+- [ ] Attributions for plugins
+- [ ] Prettify things around the repo
 
 ## The actual guide
 
-- [] Come up with a proper draft (probably should've done this before buying the domain)
+- [ ] Come up with a proper draft (probably should've done this before buying the domain)
