@@ -13,3 +13,7 @@ Over the years, I have heard many people tell me some variation of the following
 This guide was made to try and take out as many of those excuses as possible. While this guide will not turn you into a master writer, it will hopefully give you the motivation to begin writing things of your own.
 
 Writing is an incredibly fun pasttime, and the writer of this guide hopes that you will learn to enjoy it as well, regardless of skill.
+
+```admonish info
+This is a testing message. Please ignore. Thanks!
+```

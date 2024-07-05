@@ -22,12 +22,6 @@ jobs:
           owner: rust-lang
           name: mdBook
 
-      - name: Install Catppuccin
-        uses: extractions/setup-crate@v1
-        with:
-          owner: catppuccin
-          name: mdBook
-
       - name: Install admonish
         uses: extractions/setup-crate@v1
         with:
