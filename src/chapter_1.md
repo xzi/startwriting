@@ -14,6 +14,12 @@ This guide was made to try and take out as many of those excuses as possible. Wh
 
 Writing is an incredibly fun pasttime, and the writer of this guide hopes that you will learn to enjoy it as well, regardless of skill.
 
-```admonish info
-This is a testing message. Please ignore. Thanks!
-```
+This guide assumes the following things from you:
+
+- You have a good grasp on the English language.
+- You have a working internet connection.
+- That's it!
+
+All you need to start writing is a basic knowledge of the language you want to write in. This is a guide targeted at an English speaking audience, so this guide will assume that you are reasonably proficient in English. In theory, you do not actually need a working internet connection to follow the steps in this guide, however this guide will mostly discuss digital writing, as that is the age of the world we live in.
+
+With all that being said, kick back, relax, and prepare to write.
