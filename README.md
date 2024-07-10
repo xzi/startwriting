@@ -7,3 +7,13 @@
 Startwrit.ing is a guide for those who are just getting started with creative writing. This repository holds most of the things that make startwrit.ing work.  
 
 If you are interested in contributing, please message @ruckerenum on Discord and I would be happy to give you something to do. Proper contribution guidelines/docs will be coming when I get a chance.
+
+## Plugins
+
+- [mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)
+- [mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)
+
+## Credits
+
+- [Pirate Software/Jason Thor Hall](https://www.twitch.tv/piratesoftware) - startwrit.ing is directly inspired by [develop.games](https://develop.games) and would probably not exist if this didn't. Please check out Pirate Software's site and his Twitch.
+- My 10th grade writing teacher - Thank you for always believing in me.
