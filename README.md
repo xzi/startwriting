@@ -1,6 +1,6 @@
 # startwrit.ing
 
-[Website](https://startwrit.ing) | Discord (WIP)  
+[Website](https://startwrit.ing) | [Discord (WIP)](https://discord.gg/YYZfBdZUp7)  
 
 *This guide is very work in progress and is more of a hobby project than a serious thing. Please be patient.*  
 
