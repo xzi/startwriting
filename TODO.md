@@ -12,4 +12,9 @@ This is a public to-do list that I am using for keeping track of what needs to b
 
 ## The actual guide
 
-- [ ] Come up with a proper draft (probably should've done this before buying the domain)
+- [ ] Break down the common things people believe when they say they cannot write
+- [ ] Advice on good first projects and what you may eventually want to branch out into
+- [ ] Tools to make writing easier
+- [ ] Advice on making writing flow
+- [ ] Advice on publishing your works freely online
+- [ ] Resources to improve your writing on a meta level (I will probably not do this one but it sounds cool in my head so it goes on the list)
