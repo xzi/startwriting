@@ -34,6 +34,12 @@ jobs:
           owner: badboy
           name: mdbook-mermaid
 
+      - name: Install embedify
+        uses: extractions/setup-crate@v1
+        with:
+          owner: MR-Addict
+          name: mdbook-embedify
+
       - name: Generate static content for the book
         run: mdbook build
 
