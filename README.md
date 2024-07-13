@@ -10,8 +10,9 @@ If you are interested in contributing, please message @ruckerenum on Discord and
 
 ## Plugins
 
-- [mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)
-- [mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)
+- [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)
+- [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)
+- [MR-Addict/mdbook-embedify](https://github.com/MR-Addict/mdbook-embedify)
 
 ## Credits
 
